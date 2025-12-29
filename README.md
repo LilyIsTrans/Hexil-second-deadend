@@ -1,3 +1,7 @@
+## Abandoned as a dead-end
+
+I didn't work on this project for a while, in the meantime became a better programmer, and now consider all of this code unsalvageably bad, so I am archiving the repo for posterity and starting fresh once again. Maybe the third time will be the charm! This next go around I actually have a deadline for a prototype, so that'll probably help.
+
 # Hexil
 
 A pixel art studio with non-square pixel support. 
